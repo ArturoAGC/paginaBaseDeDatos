@@ -1,0 +1,328 @@
+@charset "utf-8";
+/*CSS Document*/
+img{
+    width: 100%;
+}
+.general{
+    background-color: #eff3d5 ;
+}
+.textotitulo{
+    font-size: 80px;
+
+
+}
+.textocuadro{
+    
+    justify-content: center;
+    font-size: 25px;
+    color: rgb(214, 255, 214);
+    text-transform: capitalize;
+    
+}
+.cuadrotexto{
+    background-color: #015D52;
+    background-image: url(icone-cercle-rempli-vert);
+    
+}
+.Jumbotron{
+    margin-top: center;
+    background-image: url(015d52);
+    background-size: cover;
+    height: 300px;
+    
+    justify-content: center;
+}
+.centrarredes{
+    margin-top: center;
+    justify-content: center;
+    font-size: 15px;
+}
+.centrartitulo{
+    padding-top: 20px;
+}
+.centrartitulochico{
+    padding-top: 18px;
+}
+
+.jum{
+    margin-top: center;
+    background-image: url(015d52);
+    background-size: cover;
+    height: 100px;
+    
+    justify-content: center;
+
+}
+
+.copy{
+    margin-top: center;
+    background-image: url(015d52);
+    background-size: cover;
+    height: 200px;
+    
+    justify-content: center;
+
+}
+.imagenlogo{
+    width: 50;
+}
+.imageneschicaslogos{
+    width: 75%;
+    height: 90%;
+}
+
+.navbar{
+    background-color: #015D52;
+}
+
+
+
+
+.copy{
+    margin-top: center;
+    background-image: url(015d52);
+    background-size: cover;
+    height: 200px;
+    
+    justify-content: center;
+
+}
+
+.Jumbotron{
+    margin-top: center;
+    background-image: url(015d52);
+    background-size: cover;
+    height: 300px;
+    
+    justify-content: center;
+}
+.textoagradecimiento{
+    color: #ffffff;
+    
+
+}
+.centraragradecimiento{
+    padding-top: 1000px;
+}
+.contenedoragradecimiento{
+    background-color: #6d9b96;
+    height: 200px;
+}
+
+.contenedorflotante{
+    display: inline-block;
+    width: 100%;
+}
+.flotante-33{
+    float: left;
+    width: 25%;
+    
+}
+
+
+.copy{
+    margin-top: center;
+    background-image: url(015d52);
+    background-size: cover;
+    height: 200px;
+    
+    justify-content: center;
+
+}
+
+.Jumbotron{
+    margin-top: center;
+    background-image: url(015d52);
+    background-size: cover;
+    height: 300px;
+    
+    justify-content: center;
+}
+.contenedorflotante{
+    display: inline-block;
+    width: 100%;
+}
+.flotante-33{
+    float: left;
+    width: 25%;
+    
+}
+.carrusel{
+    height: 200px;
+}
+
+.contenedorcarrusel{
+    background-color: #80bbb4;
+}
+
+
+.copy{
+    margin-top: center;
+    background-image: url(015d52);
+    background-size: cover;
+    height: 200px;
+    
+    justify-content: center;
+
+}
+.jum{
+    margin-top: center;
+    background-image: url(015d52);
+    background-size: cover;
+    height: 200px;
+    
+    justify-content: center;
+
+
+}
+.centrartitulochico{
+    padding-top: 50px;
+}
+.Jumbotron{
+    margin-top: center;
+    background-image: url(015d52);
+    background-size: cover;
+    height: 300px;
+    
+    justify-content: center;
+}
+.contenedorflotante{
+    display: inline-block;
+    width: 100%;
+}
+.flotante-33{
+    float: left;
+    width: 33%;
+    
+}
+.cajacomentarios{
+    background-color: #afd3cf;
+    padding-top: 20px;
+}
+.boton{
+    background-color: #015D52;
+}
+.contenedorflotante{
+    display: inline-block;
+    width: 100%;
+}
+.flotante-33{
+    float: left;
+    width: 25%;
+    
+}
+
+
+
+.copy{
+    margin-top: center;
+    background-image: url(015d52);
+    background-size: cover;
+    height: 200px;
+    
+    justify-content: center;
+
+}
+.jum{
+    margin-top: center;
+    background-image: url(015d52);
+    background-size: cover;
+    height: 200px;
+    
+    justify-content: center;
+
+
+}
+.centrartitulochico{
+    padding-top: 50px;
+}
+.Jumbotron{
+    margin-top: center;
+    background-image: url(015d52);
+    background-size: cover;
+    height: 300px;
+    
+    justify-content: center;
+}
+.contenedorflotante{
+    display: inline-block;
+    width: 100%;
+}
+.flotante-33{
+    float: left;
+    width: 33%;
+    
+}
+.cajacomentarios{
+    background-color: #afd3cf;
+    padding-top: 20px;
+}
+.boton{
+    background-color: #015D52;
+}
+.contenedorflotante{
+    display: inline-block;
+    width: 100%;
+}
+.flotante-33{
+    float: left;
+    width: 25%;
+    
+}
+
+
+.copy{
+    margin-top: center;
+    background-image: url(015d52);
+    background-size: cover;
+    height: 200px;
+    
+    justify-content: center;
+
+}
+.jum{
+    margin-top: center;
+    background-image: url(015d52);
+    background-size: cover;
+    height: 200px;
+    
+    justify-content: center;
+
+
+}
+.centrartitulochico{
+    padding-top: 50px;
+}
+.Jumbotron{
+    margin-top: center;
+    background-image: url(015d52);
+    background-size: cover;
+    height: 300px;
+    
+    justify-content: center;
+}
+.contenedorflotante{
+    display: inline-block;
+    width: 100%;
+}
+.flotante-33{
+    float: left;
+    width: 33%;
+    
+}
+.cajacomentarios{
+    background-color: #afd3cf;
+    padding-top: 20px;
+}
+.boton{
+    background-color: #015D52;
+}
+.contenedorflotante{
+    display: inline-block;
+    width: 100%;
+}
+.flotante-33{
+    float: left;
+    width: 25%;
+    
+}
